@@ -39,8 +39,7 @@ Além disso, o projeto visa aplicar e demonstrar os conceitos de Engenharia de S
 5.  **Manutenibilidade:**  O código deve ser bem estruturado e fácil de manter, utilizando as melhores práticas para o desenvolvimento.
 
 ## Diagrama de Caso de Uso
-
-Inclua aqui o diagrama de caso de uso da aplicação.
+![useCase](https://github.com/Gabriel-Volpini/carbon-calculator/assets/53948365/8c796530-bc01-4385-9da4-9e8f1253214e)
 
 ## Instalação
 ## Uso
