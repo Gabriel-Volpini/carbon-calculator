@@ -1,7 +1,5 @@
 # Dashboard de Carbono
 
-##I
-
 # Índice
 
 - [Descrição do Projeto](#Descrição-do-Projeto)
@@ -10,7 +8,8 @@
 - [Diagrama de Caso de Uso](#Diagrama-de-Caso-de-Uso)
 - [Instalação](#Instalação)
 - [Uso](#Uso)
-- [Arquitetura](#Arquitetura)
+- [Arquitetura](https://github.com/Gabriel-Volpini/carbon-calculator/blob/main/architecture.md)
+- [Tests](https://github.com/Gabriel-Volpini/carbon-calculator/blob/main/Tests.md)
 - [Project - Roadmap](https://github.com/users/Gabriel-Volpini/projects/1)
 
 ## Descrição do Projeto
@@ -43,4 +42,3 @@ Além disso, o projeto visa aplicar e demonstrar os conceitos de Engenharia de S
 
 ## Instalação
 ## Uso
-## Arquitetura
